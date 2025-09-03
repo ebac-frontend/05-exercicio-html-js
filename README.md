@@ -5,7 +5,7 @@ A condição desse exercício é a caixa B obter sempre um valor maior que a cai
 
 Instruções da atividade:
 1) Crie um formulário HTML que possua dois campos numéricos:
-campo A
+campo A,
 campo B
 
 2) Insira um botão para submeter o formulário.
