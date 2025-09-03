@@ -15,4 +15,4 @@ campo B
 4) Exiba uma mensagem positiva para o usuário quando o formulário for válido e uma mensagem negativa quando for inválido.
 
 Teste usando o deploy do projeto a seguir:<br>
-Deploy: https://eduarda-magnago.github.io/exercicio_html_js/
+Deploy: https://ebac-frontend.github.io/05-exercicio-html-js/
